@@ -78,6 +78,27 @@
   .fat {
     height: 30%;
   }
+
+  .oct16horiz {
+    height: 12.5%;
+    width : 16%;
+    float: left;
+  }
+
+  .oct8horiz {
+      height: 12.5%;
+      width: 8%;
+      float: left;
+  }
+
+  .oct68horiz {
+      height: 12.5%;
+      /* width: 68%; */
+  }
+
+  .octhoriz {
+      height: 12.5%;
+  }
   
   .circle {
     border-radius: 50%;
