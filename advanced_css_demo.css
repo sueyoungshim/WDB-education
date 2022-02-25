@@ -1,0 +1,51 @@
+/* 
+body{
+    color: red;
+    background-color: yellowgreen;
+    font-size: 50px;
+    position: relative;
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+} */
+
+.box-container {
+    display: block;
+    padding: 30px;
+    text-align: center;
+    width: 300px;
+    background-color: black;
+    color: lightblue;
+    font-size: 50px;
+}
+
+
+.box-one {
+    background-color: lightpink;
+    color: darkgreen;
+}
+
+.box-two {
+    background-color: yellowgreen;
+    color: darkred;
+}
+
+.box-three {
+    background-color: coral;
+    color: darkblue;
+}
+
+div {
+    font-size: 30px;
+}
+
+.div2 {
+    font-size: 60px;
+}

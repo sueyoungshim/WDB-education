@@ -1,0 +1,169 @@
+.logo {
+    font-size: 300%;
+    font-family: "Georgia", serif;
+    font-style: bold;
+
+    padding: 3%;
+    padding-top: 1%;
+}
+
+.nav {
+    display: flex;
+
+    gap: 40px;
+
+    flex-wrap: wrap;
+
+    font-size: 300%;
+    font-family: "Georgia", serif;
+
+  }
+  
+.nav-about {
+    font-size: 100%;
+    border-radius: 20px;
+    padding: 3%;
+}
+
+.nav-scroll {
+    padding: 3%;
+    font-size: 70%;
+}
+
+.spacer {
+    display: flex;
+    padding: 15%
+}
+
+
+
+
+
+.flags {
+    display: flex;
+    font-family: "Consolas", monospace;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-content: center;
+    flex-direction: row;
+}
+
+
+
+.flags-poland {
+    display: flex;
+    width: 30%;
+    height: 30%;
+}
+
+.flags-luxembourg {
+    display: flex;
+    width: 30%;
+    height: 30%;
+}
+
+.flags-thailand {
+    display: flex;
+    width: 30%;
+    height: 30%;
+}
+
+.flags-ptext {
+    background-color: rgb(209, 209, 209);
+    border-radius: 10px;
+    align-items: center;
+    height: 30%;
+    width: 20%;
+    padding: 1%;
+}
+
+.flags-ltext {
+    background-color: rgb(209, 209, 209);
+    border-radius: 10px;
+    align-items: center;
+    height: 30%;
+    width: 20%;
+    padding: 1%;
+}
+
+.flags-ttext {
+    background-color: rgb(209, 209, 209);
+    border-radius: 10px;
+    align-items: center;
+    height: 30%;
+    width: 20%;
+    padding: 1%;
+}
+
+.flags-pcode {
+    background-color: rgb(209, 209, 209);
+    border-radius: 10px;
+    align-items: center;
+    height: 30%;
+    width: 20%;
+    padding: 1%;
+}
+
+.flags-lcode {
+    background-color: rgb(209, 209, 209);
+    border-radius: 10px;
+    align-items: center;
+    height: 30%;
+    width: 20%;
+    padding: 1%;
+}
+
+.flags-tcode {
+    background-color: rgb(209, 209, 209);
+    border-radius: 10px;
+    align-items: center;
+    height: 30%;
+    width: 20%;
+    padding: 1%;
+ 
+}
+
+
+
+
+.contact {
+    display: flex;
+    font-family: "Georgia", serif;
+    gap: 50px;
+    justify-content: space-evenly;
+}
+
+.contact-instagram {
+    background-color: yellow;
+    background-image: 
+    linear-gradient(
+        45deg, rgb(194, 0, 194), rgb(255, 108, 132));
+    color: white;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+.contact-email {
+    background-color: rgb(187, 187, 187);
+    background-image: 
+    linear-gradient(
+        45deg, rgb(226, 226, 226), rgb(161, 161, 161));
+    border-radius: 10px;
+    color: black;
+    padding: 1%;
+}
+
+.contact-twitter {
+    background-color: skyblue;
+    background-image: 
+    linear-gradient(
+        45deg, rgb(174, 232, 255), rgb(101, 211, 255));
+    border-radius: 10px;
+    color: black;
+    padding: 1%;
+}
+
+.spacer2 {
+    display: flex;
+    padding: 5%
+}

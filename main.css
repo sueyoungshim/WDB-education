@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    color: rgb(124, 216, 173);
+}
+
+h1 {
+    color: rgb(87, 38, 201);
+}
+
+.bee {
+    color: darkorange;
+    font-size: 40px;
+    letter-spacing: 0.1rem;
+    line-height: 30px;
+    font-weight: 500;
+    font-family: 'fantasy';
+    text-align: center;
+
+    text-decoration-line: overline;
+    text-decoration-color: green;
+    text-decoration-style: solid;
+    text-decoration-thickness: 4px;
+
+    text-decoration: underline greenyellow dotted 2px;
+    text-transform: uppercase;
+}
+
+.barry {
+    width: 600px;
+    height: 400px;
+    z-index: -1;
+    box-shadow: 10px 5px 5px purple;
+    position: absolute;
+    /* top: 0;
+    left: 0; */
+    border-radius: 20px;
+    padding: 20px;
+    border: 5px solid #000;
+    margin: 40px;
+}   
+
+.regular-div {
+    background-color: rgb(226, 204, 241);
+    opacity: 0.9;
+}
